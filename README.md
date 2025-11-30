@@ -26,11 +26,3 @@ This backend can be connected to any frontend (React, Vue, Angular, mobile apps)
 - Pillow (for image handling)  
 
 ---
-
-## Installation & Setup
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/quickconnect.git
-cd quickconnect
